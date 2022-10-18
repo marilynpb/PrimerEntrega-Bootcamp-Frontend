@@ -377,9 +377,9 @@ footer a:hover{
 }
 
 /*-----------------------*/
-@media (max-width:900px){
+@media (max-width:700px){
     .container{
-        width: 90%;
+        width: 98%;
     }
 }
 
