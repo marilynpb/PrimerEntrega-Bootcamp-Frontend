@@ -380,7 +380,7 @@ footer a:hover{
         margin-right: 1vh;
     }
     form{
-        width: 80%;
+        width: 100%;
         height: auto;
         margin: 0%;
         box-shadow: none;
@@ -393,7 +393,6 @@ footer a:hover{
         margin-left: 20vh;
     }
 }
-
 
 /*-----------------------*/
 @media (max-width:825px){
