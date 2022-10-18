@@ -362,6 +362,9 @@ footer a:hover{
         width: 70%;
         height: auto;
     }
+    form{
+        height: auto;
+    }
     .formDer{
         height: auto;
     }
@@ -402,7 +405,7 @@ footer a:hover{
 /*-----------------------*/
 @media (max-width:825px){
     .formulario{
-        height: 110vh;
+        height: 180vh;
     }
     .siguiente button{
         width: 90%;
@@ -425,11 +428,10 @@ footer a:hover{
         margin-left: 1vh;
         margin-right: 1vh;
     }
-    form{
-        width: 100%;
-        height: auto;
-        margin: 0%;
+    .form{
+        width: 90%;
         text-align: center;
+        clear: both;
     }
     .formIzq{
         height: auto;
@@ -505,9 +507,6 @@ footer a:hover{
 
 /*-----------------------*/
 @media (max-width:425px){
-    form{
-        margin: 1%;
-    }
     .contacto{
         min-width: 25vh;
     }
