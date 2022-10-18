@@ -393,6 +393,13 @@ footer a:hover{
 }
 
 /*-----------------------*/
+@media (max-width:900px){
+    .container{
+        width: 90%;
+    }
+}
+
+/*-----------------------*/
 @media (max-width:825px){
     .formulario{
         height: 110vh;
@@ -422,7 +429,6 @@ footer a:hover{
         width: 100%;
         height: auto;
         margin: 0%;
-        box-shadow: none;
         text-align: center;
     }
     .formIzq{

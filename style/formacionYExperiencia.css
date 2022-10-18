@@ -484,6 +484,13 @@ footer a:hover{
 }
 
 /*-----------------------*/
+@media (max-width:900px){
+    .container{
+        width: 90%;
+    }
+}
+
+/*-----------------------*/
 @media (max-width:825px){
     .siguiente button{
         width: 90%;
