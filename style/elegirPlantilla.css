@@ -394,12 +394,6 @@ footer a:hover{
     }
 }
 
-/*-----------------------*/
-@media (max-width:700px){
-    .container{
-        width: 98%;
-    }
-}
 
 /*-----------------------*/
 @media (max-width:825px){
