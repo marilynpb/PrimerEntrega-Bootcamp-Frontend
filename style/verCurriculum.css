@@ -361,6 +361,13 @@ footer a:hover{
 }
 
 /*-----------------------*/
+@media (max-width:625px){
+    .container{
+        width: 98%;
+    }
+}
+
+/*-----------------------*/
 @media (max-width:600px){
     .gridPlantillas{
         display: block;
